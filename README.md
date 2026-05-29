@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.sponsormywork.com/maxktz">
+  <a href="https://opencollective.com/maxktz">
     <img src="https://raw.githubusercontent.com/franky47/franky47/refs/heads/master/badges/sponsor.svg" alt="Sponsor" width="276" height="32" />
   </a>
 </p>
