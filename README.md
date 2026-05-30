@@ -10,7 +10,7 @@
 <p>
   <a href="https://opencollective.com/maxktz"><img src="https://img.shields.io/badge/Open%20Collective-3385FF?logo=open-collective&logoColor=fff" alt="Open Collective" width="150" /></a> 
   
-  You would help me very much and get cool perks !
+  You would really help me and get cool perks !
 </p>
 
 
