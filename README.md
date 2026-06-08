@@ -4,16 +4,6 @@
 - **[Hitch](https://github.com/maxktz/hitch)** - CLI to share your terminal with AI agents in one command.
 - **[Opensec](https://github.com/maxktz/opensec)** - Platform to donate spare AI usage for open source security.
 
-
-#### Sponsor <3
-
-<p>
-  <a href="https://opencollective.com/maxktz"><img src="https://img.shields.io/badge/Open%20Collective-3385FF?logo=open-collective&logoColor=fff" alt="Open Collective" width="150" /></a> 
-  
-  You would really help me and get cool perks !
-</p>
-
-
 #### My Links
 
 <p>
